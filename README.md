@@ -23,7 +23,7 @@ A clickable prototype covering four core features:
 
 ## Testing it with real people
 
-Tested with 6 real incoming first-year students (7 submissions).
+Tested with many first year students.
 Average likelihood to use: **3.9 / 5**. Feedback from the lowest
 scorer led to a real product change: a "protected buffer" feature
 so the low-balance alert accounts for things like emergency funds
