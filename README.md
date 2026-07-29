@@ -31,7 +31,7 @@ instead of treating the whole balance as spendable.
 
 ## Links
 
-- Live prototype: [https://affanameer.github.io/Nextstep-Prototype/](url)
+- Live prototype: [Live Prototype](https://affanameer.github.io/Nextstep-Prototype/)
 - Full PRD & roadmap: [NextStep_PRD_and_Roadmap.pdf](./NextStep_PRD_and_Roadmap.pdf)
 
 ## Built by
