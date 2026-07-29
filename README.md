@@ -2,7 +2,7 @@
 
 A product case study: a concept for a Canadian bank feature that helps
 new students manage money on their own for the first time, during
-their first 90 days away from home/preparing to budget on their own.
+their first 30 days away from home/preparing to budget on their own.
 
 ## The problem
 
