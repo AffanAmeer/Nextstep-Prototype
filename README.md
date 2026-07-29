@@ -23,12 +23,16 @@ A clickable prototype covering four core features:
 
 ## Testing it with real people
 
-Tested with many real incoming first-year students (6 submissions that shared names).
+Tested with 6 real incoming first-year students (7 submissions).
 Average likelihood to use: **3.9 / 5**. Feedback from the lowest
 scorer led to a real product change: a "protected buffer" feature
 so the low-balance alert accounts for things like emergency funds
 instead of treating the whole balance as spendable.
 
+## Links
+
+- Live prototype: [add your GitHub Pages URL here]
+- Full PRD & roadmap: [add a link to the PDF here]
 
 ## Built by
 
